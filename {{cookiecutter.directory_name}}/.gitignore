@@ -91,3 +91,7 @@ target/
 
 # Hydra logs
 outputs
+
+*.log 
+*.logs
+*.txt
